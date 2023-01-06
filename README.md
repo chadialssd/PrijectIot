@@ -1,1 +1,1 @@
-# PrijectIot
+# ProjectIot
